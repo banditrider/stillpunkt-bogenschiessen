@@ -1,0 +1,27 @@
+{
+  "name": "Stillpunkt",
+  "short_name": "Stillpunkt",
+  "start_url": "/stillpunkt-bogenschiessen/",
+  "display": "browser",
+  "lang": "de",
+  "background_color": "#f7f5f3",
+  "theme_color": "#f7f5f3",
+  "icons": [
+    {
+      "src": "/stillpunkt-bogenschiessen/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/stillpunkt-bogenschiessen/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/stillpunkt-bogenschiessen/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
